@@ -8,7 +8,12 @@ $r(x) = \frac{x'Ax}{x'x}$
 Note that if x is an eigenvector of A, then r(x) = \lamda is the corresponding eigenvalue.
 
 Suppose A C mxm arbitray. The set of all Rayleigh quotients of A, corresponding to all nonzero vectors x C mxm is known as the field of values or numerical
-range of A.
+range of A, a subset of the complex plane denoted by W(A).
+
+We can show by simulation in Octave using complex random vectors.
+
+
+
 
 
 
