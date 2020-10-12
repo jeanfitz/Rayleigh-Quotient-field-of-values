@@ -1,4 +1,4 @@
-# Rayleigh-Quotient-field-of-values
+# Rayleigh-Quotient-field-of-values contains convex hull of the eigenvalues of matrix
 
 The Rayleigh quotient of a vector x is the scalar
 
